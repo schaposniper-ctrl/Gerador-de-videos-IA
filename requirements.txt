@@ -1,0 +1,7 @@
+streamlit
+edge-tts
+moviepy
+numpy
+imageio
+imageio-ffmpeg
+pillow
